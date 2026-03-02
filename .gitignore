@@ -1,2 +1,3 @@
-# Build artifacts
-/dist/
+# Build artifacts — track only the released binary, ignore everything else
+/dist/*
+!/dist/calculator.exe
